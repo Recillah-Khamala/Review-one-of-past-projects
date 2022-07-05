@@ -1,0 +1,36 @@
+div #main{
+    float:left;
+}
+#main div{
+    float: left;
+    width:50%;
+}
+#main div #navbar{
+width:40% ;
+} 
+#nav-list li {
+    text-align: center;
+    list-style: none;
+    border-style: solid;
+    margin: 1px;
+    border-top-color:transparent;
+    
+    
+}
+#nav-list li:hover {
+    
+    background-color:rgb(245, 177, 228);
+    
+}
+a {
+   text-decoration: none;
+}
+#first-list{
+    pointer-events: none;
+    font-size: medium;
+    background-color: black;
+    color: blanchedalmond;
+}
+code {
+    background-color: rgba(223, 217, 217, 0.514);
+  }
